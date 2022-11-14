@@ -1,8 +1,5 @@
-import React from "react";
-
-const SinglePost = ({ params }) => {
-  const { id } = params;
-  return <div>Este es el post de : {id}</div>;
+const page = () => {
+  return null;
 };
 
-export default SinglePost;
+export default page;
